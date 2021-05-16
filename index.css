@@ -43,3 +43,21 @@ h1 {
     display: inline-block;
 }
 
+a:link {
+  color: #63c5da	;
+  text-shadow: 3px;
+}
+
+a:visited {
+  color: #63c5da	;
+  text-shadow: 3px;
+}
+
+a:hover {
+  color: #1c6daa;
+  cursor: cursor;
+}
+
+a:active {
+  color: blue;
+}
