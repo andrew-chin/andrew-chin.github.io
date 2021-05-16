@@ -5,6 +5,12 @@
 body{
     margin-left: 30px;
 }
+h3{
+  font-size: 20px;
+    font-family: 'EB Garamond';
+    letter-spacing: 1px;
+}
+
 h2{
     font-size: 30px;
     font-family: 'EB Garamond';
@@ -43,6 +49,8 @@ h1 {
     display: inline-block;
 }
 
+
+
 a:link {
   color: #63c5da	;
   text-shadow: 3px;
@@ -60,4 +68,17 @@ a:hover {
 
 a:active {
   color: blue;
+}
+
+.icon-bar{
+  position: fixed;
+  top: 90%;
+  left:42%;
+}
+
+.icon-bar a {
+  text-align: center;
+  padding: 12px;
+  transition: all 0.3s ease;
+  font-size: 40px;
 }
