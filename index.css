@@ -9,12 +9,14 @@ h3{
   font-size: 20px;
     font-family: 'EB Garamond';
     letter-spacing: 1px;
+    color:#f0f7da
 }
 
 h2{
     font-size: 30px;
     font-family: 'EB Garamond';
     letter-spacing: 1px;
+    color:#d3d7de
 }
 h1 {
     display: inline-block;
