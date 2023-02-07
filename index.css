@@ -1,4 +1,5 @@
 @font-face {font-family: "Univers"; src: url('Univers 59 Ultra Condensed.ttf')}
+@import url('https://fonts.cdnfonts.com/css/proxima-nova-2');
      form {
     display: inline-block;
 }
@@ -6,15 +7,16 @@ body{
     margin-left: 30px;
 }
 h3{
-  font-size: 20px;
-    font-family: 'EB Garamond';
-    letter-spacing: 1px;
+  font-size: 19px;
+  font-family: 'Proxima Nova', sans-serif;
+  font-style: normal;
+  font-weight: 100;
     color:#f0f7da
 }
 
 h2{
     font-size: 30px;
-    font-family: 'EB Garamond';
+    font-family: 'Proxima Nova', sans-serif;
     letter-spacing: 1px;
     color:#d3d7de
 }
@@ -22,7 +24,7 @@ h1 {
     display: inline-block;
     color: #DAD2A6;
     font-size: 50px;
-    font-family: Noto Sans KR;
+    font-family: 'Proxima Nova', sans-serif;
     overflow: hidden; 
     border-right: .15em solid orange; 
     white-space: nowrap; 
